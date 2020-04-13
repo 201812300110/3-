@@ -1,0 +1,5 @@
+﻿  MFC7.2View.cpp
+e:\visual实验\文档视图结构\第七周实验\mfc7.2\mfc7.2\resource.h(10): warning C4005: “IDCANCEL”: 宏重定义
+  c:\program files (x86)\windows kits\8.1\include\um\winuser.h(10565): note: 参见“IDCANCEL”的前一个定义
+  MFC7.2.vcxproj -> E:\visual实验\文档视图结构\第七周实验\MFC7.2\Debug\MFC7.2.exe
+  MFC7.2.vcxproj -> E:\visual实验\文档视图结构\第七周实验\MFC7.2\Debug\MFC7.2.pdb (Full PDB)
