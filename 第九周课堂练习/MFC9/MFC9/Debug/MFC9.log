@@ -1,0 +1,7 @@
+﻿  MyDlg.cpp
+e:\visual实验\文档视图结构\第九周实验\mfc9\mfc9\mydlg.cpp(63): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+e:\visual实验\文档视图结构\第九周实验\mfc9\mfc9\mydlg.cpp(64): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+e:\visual实验\文档视图结构\第九周实验\mfc9\mfc9\mydlg.cpp(68): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+e:\visual实验\文档视图结构\第九周实验\mfc9\mfc9\mydlg.cpp(75): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+  MFC9.vcxproj -> E:\visual实验\文档视图结构\第九周实验\MFC9\Debug\MFC9.exe
+  MFC9.vcxproj -> E:\visual实验\文档视图结构\第九周实验\MFC9\Debug\MFC9.pdb (Full PDB)
