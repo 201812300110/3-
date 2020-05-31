@@ -1,0 +1,7 @@
+﻿  MFC14View.cpp
+d:\visual实验\文档视图结构\第十四周实验\mfc14\mfc14\mfc14view.cpp(128): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+d:\visual实验\文档视图结构\第十四周实验\mfc14\mfc14\mfc14view.cpp(129): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+d:\visual实验\文档视图结构\第十四周实验\mfc14\mfc14\mfc14view.cpp(133): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+d:\visual实验\文档视图结构\第十四周实验\mfc14\mfc14\mfc14view.cpp(140): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+  MFC14.vcxproj -> D:\visual实验\文档视图结构\第十四周实验\MFC14\Debug\MFC14.exe
+  MFC14.vcxproj -> D:\visual实验\文档视图结构\第十四周实验\MFC14\Debug\MFC14.pdb (Full PDB)
